@@ -3,7 +3,7 @@
 
 ## Introduction
 
-In this project we will investigate an NBA Dataset and investigate Hypothesis.
+In this project we will investigate an NBA Dataset and perform some Hypothesis Testing.
 
 ## Objectives
 
@@ -12,7 +12,7 @@ In this project we will investigate an NBA Dataset and investigate Hypothesis.
 * Answering 3 Hypothesis Questions
 
 ### Final Project Summary
-
+<img src='https://github.com/KGharib/Test-Gif/blob/master/Lebron.gif'>
 For the culmination of Module 3, you just need to complete the final project!
 
 ### The Project
