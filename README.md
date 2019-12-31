@@ -7,15 +7,11 @@ In this project we will investigate an NBA Dataset and investigate Hypothesis.
 
 ## Objectives
 
-* Understand all required aspects of the Final Project for Module 3
-* Understand all required deliverables
-* Understand what constitutes a successful project
+* Analyze and perform EDA on the Dataset
+* Applying knowledge of Module 3 knowledge and skills
+* Answering 3 Hypothesis Questions
 
 ### Final Project Summary
-
-Another module down--you're half way there!
-
-<img src='https://raw.githubusercontent.com/learn-co-curriculum/dsc-mod-3-project/master/halfway-there.gif'>
 
 For the culmination of Module 3, you just need to complete the final project!
 
