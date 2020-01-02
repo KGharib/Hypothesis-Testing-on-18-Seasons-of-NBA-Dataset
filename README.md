@@ -29,25 +29,10 @@ for this project we investigated the NBA statistics Dataset which we found onlin
 * H1 Alternate hypothesis: There is no significant difference in teams winning who have at least one or more players who are all stars(with a DF_SCORE > 40 in their team)
 
 **_Findings_**
+#### Hypotheis 1
+we found that there is no significant effect on player performance whilst playing at Home Vs Away
+#### Hypotheis 2
+we found that it is signficantly easier for teams in the East to make it to the Playoffs Vs the teams in the West. this is due to teams in the West being better and thus the threshold to make it to the Playoffs is much higher compared to the East
 
-* Your notebook should clearly show how you arrived at your results for each hypothesis test, including how you calculated your p-values.   
-<br>
-* You should also include any other statistics that you find relevant to your analysis, such as effect size.
-
-### Blog Post Must-Haves
-
-### Executive Summary Must-Haves
-
-Your presentation should:
-
-* Contain between 5-10 professional quality slides detailing:
-<br>  
-    * A high-level overview of your methodology  
-    <br>  
-    * The results of your hypothesis tests  
-    <br>  
-    * Any real-world recommendations you would like to make based on your findings (ask yourself--why should the executive team care about what you found? How can your findings help the company?)  
-    <br>  
-* Take no more than 5 minutes to present  
-<br>  
-* Avoid technical jargon and explain results in a clear, actionable way for non-technical audiences.  
+#### Hypotheis 3
+we found that there is a significant effect on team wins when they have 1 or more AllStar player in the team compared to teams who had no Allstar player
