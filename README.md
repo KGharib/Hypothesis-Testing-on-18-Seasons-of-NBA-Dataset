@@ -31,10 +31,10 @@ We applied our previous knowledge of cleaning and EDA on the Dataset and looked 
 
 **_Findings_**
 #### Question 1
-we found that there is no significant effect on player performance whilst playing at Home Vs Away
+We found that there is no significant effect on player performance whilst playing at Home Vs Away
 
 #### Question 2
-we found that it is signficantly easier for teams in the East to make it to the Playoffs Vs the teams in the West. this is due to teams in the West being better and thus the threshold to make it to the Playoffs is much higher compared to the East
+We found that it is signficantly easier for teams in the East to make it to the Playoffs Vs the teams in the West. this is due to teams in the West being better and thus the threshold to make it to the Playoffs is much higher compared to the East
 
 #### Question 3
-we found that there is a significant effect on team wins when they have 1 or more AllStar player in the team compared to teams who had no Allstar player
+We found that there is a significant effect on team wins when they have 1 or more AllStar player in the team compared to teams who had no Allstar player
