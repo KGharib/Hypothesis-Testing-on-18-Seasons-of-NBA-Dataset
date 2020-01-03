@@ -40,3 +40,5 @@ This is due to teams in the West being better and thus the threshold to make it 
 
 #### Question 3
 We found that there is a significant effect on team wins when they have 1 or more superstar caliber player in the team compared to teams who have n superstar caliber player
+
+Slides presentation: https://docs.google.com/presentation/d/1QouAeuQSaU6GGXPNBSBUlftpnxKaoF3KmP-dQ00WHFI/edit#slide=id.g7635a0c7f4_1_1
